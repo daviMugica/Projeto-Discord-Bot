@@ -10,5 +10,5 @@ __pycache__/
 *.swp
 .DS_Store
 
-# Ignorar arquivos de variáveis de ambiente
+# Ignorar variáveis de ambiente
 .env
